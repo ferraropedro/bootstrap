@@ -1,0 +1,23 @@
+.carousel-inner img {
+    max-height: 600px;
+}
+
+.footer{
+    height: 100px;
+}
+
+.icono a{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    margin: 10px;
+}
+
+.icono a i:hover{
+    color: aqua;
+    transform: scale(1.1);
+    transition: ease-in-out .1s;
+}
+
+
+
